@@ -7,6 +7,11 @@ package pkg22205071_pbo_lat55;
 /**
  *
  * @author user
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : menampilkan program dengan gambar class diagram dan implementasi coding dengan pendekatan berbasis objek (HANDPHONE)
  */
 public class Handphone {
 
